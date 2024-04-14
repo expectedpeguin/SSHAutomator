@@ -1,0 +1,5 @@
+apt install wget curl golang -y
+which nodejs || apt install nodejs npm -y
+npm i -g pm2
+cd /root/
+exit
