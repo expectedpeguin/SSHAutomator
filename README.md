@@ -1,4 +1,4 @@
-# SSH Automator
+# SSHAutomator
 
 The SSHAutomator is a Go program that provides an automation tool for executing scripts or commands on one or more remote servers over SSH.
 
